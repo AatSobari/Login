@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    width: 300px;
+    height: 300px;
+    margin: 30% auto;
+    border: 2px solid black;
+    background: rgba(0, 0, 0, 0.09);
+    border-radius: 7px;
+}
+.logo {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.login {
+    padding-left: 45px;
+    margin-bottom: 25px;
+}
+p {
+    padding-left: 45px;
+    padding-bottom: 4px;
+}
+
+input[type="email"] {
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+input[type="password"] {
+    margin-left: 45px;
+}
+button {
+    text-align: center;
+    width: 55px;
+    height: 25px;
+    height: 25px;
+    margin-left: 30%;
+    margin-top: 37px;
+    margin-left: 30%;
+    
+}
